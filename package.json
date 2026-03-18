@@ -1,5 +1,5 @@
 {
-  "name": "handy-app",
+  "name": "whisperit-dictate",
   "private": true,
   "version": "0.7.11",
   "type": "module",
@@ -61,5 +61,6 @@
     "prettier": "^3.6.2",
     "typescript": "~5.6.3",
     "vite": "^6.4.1"
-  }
+  },
+  "description": "Free, open-source, offline speech-to-text by Whisperit"
 }
